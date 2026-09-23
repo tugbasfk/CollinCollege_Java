@@ -1,5 +1,5 @@
 
-package week1_Intro_Java;
+package week1_intro_java;
 
 import javax.swing.*;
 import java.util.Scanner;

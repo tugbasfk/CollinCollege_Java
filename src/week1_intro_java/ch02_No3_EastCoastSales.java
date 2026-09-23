@@ -1,4 +1,4 @@
-package week1_Intro_Java;
+package week1_intro_java;
 
 public class ch02_No3_EastCoastSales {
     public static void main(String[] args) {

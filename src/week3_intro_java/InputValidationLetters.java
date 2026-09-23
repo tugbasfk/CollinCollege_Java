@@ -1,6 +1,4 @@
-package week3_Intro_Java;
-
-import java.util.Scanner;
+package week3_intro_java;
 
 public class InputValidationLetters {
     public static void main(String[] args) {
@@ -25,6 +23,7 @@ public class InputValidationLetters {
 */
 
         //result
+
 
 
     }

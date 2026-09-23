@@ -1,4 +1,4 @@
-package week3_Intro_Java;
+package week3_intro_java;
 
 public class ForLoops {
     public static void main(String[] args) {

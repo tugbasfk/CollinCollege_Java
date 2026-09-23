@@ -1,6 +1,4 @@
-package week2_Intro_Java;
-
-import org.w3c.dom.ls.LSOutput;
+package week2_intro_java;
 
 import java.util.Scanner;
 
